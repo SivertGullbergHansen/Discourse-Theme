@@ -1,5 +1,5 @@
 {
-  "name": "Facepunch Theme",
+  "name": "Bycic Theme",
   "component": false,
   "license_url": null,
   "about_url": null,
@@ -9,7 +9,7 @@
   "maximum_discourse_version": null,
   "assets": {},
   "color_schemes": {
-    "Facepunch_Default": {
+    "Bycic_Default": {
       "primary": "171727",
       "secondary": "ffffff",
       "tertiary": "171727",
@@ -23,5 +23,5 @@
     }
   },
   "modifiers": {},
-  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+  "learn_more": "https://github.dev/SivertGullbergHansen/Discourse-Theme"
 }
